@@ -4,7 +4,7 @@ Hi, I'm trying to look for this file titled 1.1.pdf through my bash script but I
 with the following message (screenshot 1). The code for my bash script is in screenshot 2. Can someone explain to me why
 this is happening?
 ![Image]
-![Image]
+![Image](Screenshot 2024-03-12 at 5.50.45 PM.png)
 
 ## Step 2: TA response
 First you want to check if this file is stored in the correct directory. I see that you went to ```Downloads``` so if you can,

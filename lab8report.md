@@ -41,3 +41,6 @@ bash ```testLab8.sh```
 
 edit to fix the bug
 add ```$``` to the front of ```FOUND_FILE```
+
+# Part 2: Reflection
+In these last few weeks I learned some useful tools for debugging such as ```echo``` and ```pwd```. I know that code being complicated is not a good thing and if TA's don't get it, the code it most likely over complexing it which is not good. I also learned we can add files using ```touch``` and add directories using ```mkdir```. ```vim``` is also a really cool command which can help me access the file without having to open it directly. I can be in vim and directly use ```git commit -m``` and ```git add``` and ```git push``` to push the edits to github directly. I do hope that I won't need it as much as there are many different commands to know.

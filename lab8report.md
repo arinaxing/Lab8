@@ -3,7 +3,7 @@
 Hi, I'm trying to look for this file titled 1.1.pdf through my bash script but I am encountering an error
 with the following message (screenshot 1). The code for my bash script is in screenshot 2. Can someone explain to me why
 this is happening?
-![Image](errror_msg.png)
+![Image](error_msg.png)
 ![Image](java_before_bugfix.png)
 
 ## Step 2: TA response

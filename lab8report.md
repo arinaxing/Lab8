@@ -3,8 +3,8 @@
 Hi, I'm trying to look for this file titled 1.1.pdf through my bash script but I am encountering an error
 with the following message (screenshot 1). The code for my bash script is in screenshot 2. Can someone explain to me why
 this is happening?
-![Image]
-![Image](Screenshot 2024-03-12 at 5.50.45 PM.png)
+![Image](errror_msg.png)
+![Image](java_before_bugfix.png)
 
 ## Step 2: TA response
 First you want to check if this file is stored in the correct directory. I see that you went to ```Downloads``` so if you can,
@@ -14,7 +14,8 @@ it in the beginning. Can you remember what it is?
 
 ## Step 3: student post
 Thank you, I see that I forgot the $ symbol in front of the ```FOUND_FILE``` variable. I can now print my java file.
-![Image]
+![Image](correct_code.png)
+![Image](correct_output.png)
 
 ## Step 4
 file and directory needed:
